@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-got clone https://github.com/nutthanonn/svelte-todolist.git
+git clone https://github.com/nutthanonn/svelte-todolist.git
 
 cd svelte-todolist
 npm i
